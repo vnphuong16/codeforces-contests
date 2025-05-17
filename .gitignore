@@ -34,3 +34,10 @@
 # IDE
 .vscode/
 .idea/
+
+# Build folders
+cmake-build-debug/
+    cmake-build-release/
+
+# OS files
+.DS_Store
